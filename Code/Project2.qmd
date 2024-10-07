@@ -5,3 +5,14 @@ editor: visual
 ---
 
 ## 
+
+## Read in the Data Set
+
+```{r}
+data <- read.csv("C:/Users/sviea/Documents/Advanced_Data_Analysis_Project_2/RawData/hiv_dataset.csv")
+data
+dim(data)
+colnames(data)
+```
+
+This data is in wide form. First we need to transpose it to long form.
