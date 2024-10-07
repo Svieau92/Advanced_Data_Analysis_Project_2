@@ -1,1 +1,0 @@
-This is the repository where I will keep all documents related to Project 2 for the Advanced Data Analysis course.
